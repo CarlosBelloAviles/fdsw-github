@@ -13,13 +13,23 @@ body {
 
 /* Mis trabajos */
 
-#Mis-trabajos .image-top {
-  height: 250px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+.imagines{
+  height: 500px;
+  width: 100%;
 }
 
+
+.card{
+  background-color: rgb(83, 47, 117);
+}
+
+
+.fondo{
+  background-color: rgb(36, 16, 54);
+}
+ .hipervinculo{
+  text-decoration: none;
+ }
 /* Contacto */
 
 #Contacto form label {
