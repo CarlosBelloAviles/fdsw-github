@@ -4,7 +4,7 @@ body {
   padding: 0;
 }
 
-.collapse{
+.collapse {
   display: flex;
   flex-direction: row;
   justify-content: right;
@@ -21,23 +21,46 @@ body {
 
 /* Mis trabajos */
 
-.imagines{
+.imagines {
   height: 500px;
   width: 100%;
 }
 
-
-.card{
+.card {
   background-color: rgb(83, 47, 117);
 }
 
-
-.fondo{
+.fondo {
   background-color: rgb(36, 16, 54);
 }
- .hipervinculo{
+.hipervinculo {
   text-decoration: none;
- }
+}
+
+/*Mis Habilidades*/
+
+
+.habilidades{
+  
+  
+  text-align: center;
+}
+
+
+.fa-html5 {
+  color: rgb(150, 42, 3);
+}
+.fa-css3-alt {
+  color: rgb(28, 28, 192);
+}
+.fa-bootstrap {
+  color: rgb(70, 19, 117);
+}
+
+.fa-js {
+  color: rgb(160, 160, 39);
+}
+
 /* Contacto */
 
 #Contacto form label {
@@ -50,8 +73,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
